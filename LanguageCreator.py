@@ -28,13 +28,13 @@ while True:
                      %b *Hits enter
             It asks 42 pairs, but alphabet is only 26?
             True, but there are other important symbols and more importantly NUMBERS!
-            The extra symbols: 1234567890,.=+-%
+            The extra symbols: 1234567890,.=+-%?
             dont put \\q, It will mess up
             It's recommended to put english letters alphabetically, then numbers, then the other symbols
             To send it to you friend or someone, send the \"custom-lang.astro\" in your desktop to them and
             they should put it in their desktop""")
-            for LineLetter in range(42):
-                pair = input(f"ExtraSym: 1234567890,.=+-% | Letter {LineLetter + 1}:")
+            for LineLetter in range(43):
+                pair = input(f"ExtraSym: 1234567890,.=+-%? | Letter {LineLetter + 1}:")
                 FullLanguage.append(pair)
             with open(file_path, "w") as f:
                 for pair in FullLanguage:
@@ -89,7 +89,8 @@ L.
 M=
 N+
 O-
-P%""")
+P%
+Z?""")
         print("Done! (1sec delay)")
         time.sleep(1)
     elif choice1 == "2":
