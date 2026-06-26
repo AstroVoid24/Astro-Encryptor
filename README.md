@@ -1,4 +1,4 @@
-Tutorial inside /\
+Tutorial inside -->->->------>
 
 This is a simple tool to make a secret language!
 There is a language maker, and translator!
