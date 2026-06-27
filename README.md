@@ -1,31 +1,36 @@
 I present to you
 
 SECRET LANGUAGE MAKER
-	by AstroVoid24!
-
-1.0.1 -- Added Translation Blocker, if the letter/symbol wasn't found, it blocks and translate to a blank text, because if only one letter is missing, 
-the whole text will be visible, and that little update enchances the safety
 	
-This tool is very cool and usefull if you want to comminucate with other people with secret language!
+by AstroVoid24!
+	
+Latest Version:
 
-If you want to make your own encryption, you can go to the language maker!
+  --1.0.1 -- Added Translation Blocker, if the letter/symbol wasn't found, it blocks and translate to a blank text, because if only one letter is missing, 
+  the whole text will be visible, and that little update enchances the safety
 
-There is a tutorial inside, and it's very easy to create one.
+Description:
+	
+ This tool is very cool and usefull if you want to comminucate with other people with secret language!
 
-After you make one, it's gonna save a file on your desktop,
+ If you want to make your own encryption, you can go to the language maker!
 
-You can send that file to your friend so you could comminucate with each other with your created language! And they should put that file on their desktop
+ There is a tutorial inside, and it's very easy to create one.
 
-And in the programm, you can use the translation between english and your created language to actually comminucate
+ After you make one, it's gonna save a file on your desktop,
 
-If you don't want to create your own language, there is an option to make a default one automaticly!
+ You can send that file to your friend so you could comminucate with each other with your created language! And they should put that file on their desktop
 
-Don't worry, you shouldn't send the automaticly created language too, your friend just needs to select that option too, and you have the same language!
+ And in the programm, you can use the translation between english and your created language to actually comminucate
 
-When you translate between eng and encrypted lang, and if it shows an error message and translates to a blank text, it means that there are no symbols in the dictionary!
+ If you don't want to create your own language, there is an option to make a default one automaticly!
 
-The extra symbols are "1234567890,.=+-%?"
+ Don't worry, you shouldn't send the automaticly created language too, your friend just needs to select that option too, and you have the same language!
 
-You can decide your own, what symbols to put or replace, It asks 42 letters and 42 symbols of the custom languages.
+ When you translate between eng and encrypted lang, and if it shows an error message and translates to a blank text, it means that there are no symbols in the dictionary!
 
-I'm gonna implement other things to make it more easier!
+ The extra symbols are "1234567890,.=+-%?"
+
+ You can decide your own, what symbols to put or replace, It asks 42 letters and 42 symbols of the custom languages.
+
+ I'm gonna implement other things to make it more easier!
