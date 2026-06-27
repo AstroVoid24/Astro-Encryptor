@@ -2,6 +2,9 @@ I present to you
 
 SECRET LANGUAGE MAKER
 	by AstroVoid24!
+
+1.0.1 -- Added Translation Blocker, if the letter/symbol wasn't found, it blocks and translate to a blank text, because if only one letter is missing, 
+the whole text will be visible, and that little update enchances the safety
 	
 This tool is very cool and usefull if you want to comminucate with other people with secret language!
 
