@@ -11,7 +11,7 @@ Latest Version:
 ```diff
 - IMPORTANT!:
 
- Installation required! Go to your terminal and paste this code: `pip3 install readchar` and wait until it installs!
+ Installation required! Go to your terminal and paste this code: pip3 install readchar and wait until it installs!
 ```
 Description:
 	
