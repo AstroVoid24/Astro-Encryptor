@@ -8,7 +8,7 @@ Latest Version:
 
   --1.0.2V -- Changed from press enter to continue to press any key to continue and fixed some bugs
   
-  -m1.0.1v -- First module version(changed readme.md)! Use "pip install Astro-Encryptor-mod"
+  -m1.0.3v -- First module version!(major bug fixed) Use "pip install Astro-Encryptor-mod"
 
 ```diff
 - IMPORTANT!:
