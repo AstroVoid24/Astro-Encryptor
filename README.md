@@ -7,11 +7,12 @@ by AstroVoid24!
 Latest Version:
 
   --1.0.2V -- Changed from press enter to continue to press any key to continue and fixed some bugs
+  -m1.0.0v -- First module version!
 
 ```diff
 - IMPORTANT!:
 
- Installation required! Go to your terminal and paste this code: pip3 install readchar and wait until it installs!
+ Installation required! Go to your terminal and paste this code: "pip3 install readchar" and wait until it installs!
 ```
 Description:
 	
@@ -19,7 +20,7 @@ Description:
 
  If you want to make your own encryption, you can go to the language maker!
 
- There is a tutorial inside, and it's very easy to create one.
+ There is a tutorial inside, and it's very easy to create one, same as mod version!
 
  After you make one, it's gonna save a file on your desktop,
 
