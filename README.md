@@ -9,6 +9,10 @@ Latest Version:
   --1.1.1V -- Fixed a critical bug, that doesn't let u translate just because of the space
   
   -m1.0.5v -- Added the PairList() function and fixed some bugs, use "pip install Astro-Encryptor-mod" and "import AstroEncryptorMod"
+  
+Big update of 1.1:
+  
+  -- Added Settings, that will keep getting bigger and BIGGER, and pretty/niet
 
 ```diff
 - IMPORTANT!:
