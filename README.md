@@ -8,7 +8,7 @@ Latest Version:
 
   --1.1.0V -- Added the Pair list and SETTINGS!
   
-  -m1.0.4v -- Added the PairList() function and fixed some bugs
+  -m1.0.4v -- Added the PairList() function and fixed some bugs, use "pip install Astro-Encryptor-mod" and "import AstroEncryptorMod"
 
 ```diff
 - IMPORTANT!:
