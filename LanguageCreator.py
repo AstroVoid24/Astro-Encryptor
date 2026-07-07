@@ -131,9 +131,10 @@ Z?""")
             for char in FromEnglish:
                 if char in Translation:
                     result += Translation[char]
+                elif char == " ":
+                    result += " "
                 else:
-                    print(
-                        "Won't translate! Couldn't find one of the letters, try to write lowercase letters ok? I won't continue becuz if i continue,\nyou could read the whole thing just without 1 letter or 2 and\nI don't know who is in this compyter!")
+                    print("Won't translate! Couldn't find one of the letters, try to write lowercase letters ok? I won't continue becuz if i continue,\nyou could read the whole thing just without 1 letter or 2 and\nI don't know who is in this compyter!")
                     result = ""
                     break
             print(f"{FromEnglish} -> {result}\nPress any key to continue")
@@ -158,9 +159,10 @@ Z?""")
             for char in ToEnglish:
                 if char in TranslationToEng:
                     result += TranslationToEng[char]
+                elif char == " ":
+                    result += " "
                 else:
-                    print(
-                        "Won't translate! Couldn't find one of the letters, try to write lowercase letters ok? I won't continue becuz if i continue,\nyou could read the whole thing just without 1 letter or 2 and\nI don't know who is in this compyter!")
+                    print("Won't translate! Couldn't find one of the letters, try to write lowercase letters ok? I won't continue becuz if i continue,\nyou could read the whole thing just without 1 letter or 2 and\nI don't know who is in this compyter!")
                     result = ""
                     break
             print(f"{ToEnglish} -> {result}\nPress any key to continue")
