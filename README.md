@@ -6,9 +6,9 @@ by AstroVoid24!
 	
 Latest Version:
 
-  --1.0.2V -- Changed from press enter to continue to press any key to continue and fixed some bugs
+  --1.1.0V -- Added the Pair list and SETTINGS!
   
-  -m1.0.3v -- First module version!(major bug fixed) Use "pip install Astro-Encryptor-mod" and for import "AstroEncryptorMod"
+  -m1.0.4v -- Added the PairList() function and fixed some bugs
 
 ```diff
 - IMPORTANT!:
