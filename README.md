@@ -6,7 +6,7 @@ by AstroVoid24!
 	
 Latest Version:
 
-  --1.1.0V -- Added the Pair list and SETTINGS!
+  --1.1.1V -- Fixed a critical bug, that doesn't let u translate just because of the space
   
   -m1.0.5v -- Added the PairList() function and fixed some bugs, use "pip install Astro-Encryptor-mod" and "import AstroEncryptorMod"
 
