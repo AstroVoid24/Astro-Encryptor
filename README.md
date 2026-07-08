@@ -12,7 +12,7 @@ Latest Version:
   
 Big update of 1.1:
   
-  -- Added Settings, that will keep getting bigger and BIGGER, and pretty/niet
+  -- Added Settings, that will keep getting bigger and BIGGER, and more pretty :3
 
 ```diff
 - IMPORTANT!:
