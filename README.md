@@ -1,8 +1,7 @@
 I present to you
 
-SECRET LANGUAGE MAKER
-	
-by AstroVoid24!
+# Astro-Encryptor
+by AstroVoid24!	
 	
 Latest Version:
 
